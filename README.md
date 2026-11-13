@@ -3,7 +3,7 @@
 A practical project on the **Mobile shop** database using **PostgreSQL 18** (via pgAdmin). This README documents the queries that were run, the screenshots of their results, and a short report on the findings.
 
 ## Project Structure
-
+---202510537
 ```
 .
 ├── README.md
